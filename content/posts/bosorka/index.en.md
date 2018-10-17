@@ -1,6 +1,6 @@
 ---
 title: "The Witch"
-url: "/en/witch/"
+url: "/en/posts/witch/"
 date: 2018-10-14T04:00:40+02:00
 draft: false
 ---
@@ -22,12 +22,12 @@ Original scanned texture got mainly corrupted due to changing light conditions, 
 <div class="row gtr-200">
 <div class="col-6 col-12-medium">
 <div class="image fit">
-<img src="/bosorka/thewitch_cartoon.jpg">
+<img src="/posts/bosorka/thewitch_cartoon.jpg">
 </div>
 </div>
 <div class="col-6 col-12-medium">
 <div class="image fit">
-<img src="/bosorka/thewitch.jpg">
+<img src="/posts/bosorka/thewitch.jpg">
 </div>
 </div>
 </div>
