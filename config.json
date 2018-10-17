@@ -6,7 +6,11 @@
   "baseURL": "https://ian.sk/",  
   "googleAnalytics": "UA-127396398-1",
   "disableHugoGeneratorInject": false,
-
+  "enableRobotsTXT": true,
+  "canonifyURLs" : true,
+  "permalinks": {
+    "posts": "/blog/:title/"
+  },
   "languages": {
     "sk": {
       "languageName": "Slovenčina",
