@@ -4,7 +4,6 @@
   "title": "ian.sk",
   "theme": "editorial",
   "baseURL": "https://ian.sk/",  
-  "disqusShortname": "ian-sk",
   "googleAnalytics": "UA-123-45",
   "disableHugoGeneratorInject": false,
 
