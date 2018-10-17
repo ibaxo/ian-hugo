@@ -1,0 +1,29 @@
+{
+  "defaultContentLanguage": "sk",
+  "defaultContentLanguageInSubdir": false,
+  "title": "ian.sk",
+  "theme": "editorial",
+  "baseURL": "https://ian.sk/",  
+  "disqusShortname": "ian-sk",
+  "googleAnalytics": "UA-123-45",
+  "disableHugoGeneratorInject": false,
+
+  "languages": {
+    "sk": {
+      "languageName": "Slovenčina",
+      "weight": 1,
+      "copyright": "Všetky práva vyhradené. Dizajn: ",
+      "params": {
+
+      }
+    },
+    "en": {
+      "languageName": "English",
+      "weight": 2,
+      "copyright": "All rights reserved. Design: ",
+      "params": {
+
+      }
+    }
+  }
+}

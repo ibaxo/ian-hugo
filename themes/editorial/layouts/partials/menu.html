@@ -1,0 +1,15 @@
+							<!-- Menu -->
+                            	<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li>{{ with .Site.GetPage "/" }}<a href="{{ .URL | absURL }}">{{ i18n "homepage" }}</a>{{ end }}</li>
+										<li>
+											<span class="opener">Bratislava</span>
+											<ul>
+												<li>{{ with .Site.GetPage "/bosorka" }}<a href="{{ .URL | absURL }}">{{ .Title }}</a>{{ end }}</li>
+											</ul>
+										</li>
+									</ul>
+								</nav>
