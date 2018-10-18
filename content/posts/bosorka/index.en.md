@@ -14,16 +14,12 @@ Her life ended on 24. May 1602.
 </blockquote>
 
 <h2>3D Scan</h2>
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Witch | Bratislava</a>
-    by <a href="https://sketchfab.com/i.vacho?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ian</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
+<div class="sketchfab-embed-wrapper"><iframe src="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+
 Original scanned texture got mainly corrupted due to changing light conditions, I have used filter to make the model look better.
+
 
 <div class="row gtr-200">
 <div class="col-6 col-12-medium">
