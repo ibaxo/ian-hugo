@@ -11,7 +11,7 @@ Prvá žena odsúdená z bosoráctva v Bratislave bola Agatha Toott Borlobaschin
 </blockquote>
 
 <h2>3D Sken</h2>
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="image fit"><iframe src="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Witch | Bratislava</a>
