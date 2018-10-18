@@ -10,8 +10,16 @@ Pod Bratislavským hradom sa nachádza socha ženy s havranmi od akademického s
 Prvá žena odsúdená z bosoráctva v Bratislave bola Agatha Toott Borlobaschinová. Bola za živa upálená na hranici v roku 1602. Mala necelých 30 rokov.
 </blockquote>
 
-## 3D Sken
-<<3dModel>>
+<h2>3D Sken</h2>
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3/embed?preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/0b89c4b0c83547e4ace0165505da10b3?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Witch | Bratislava</a>
+    by <a href="https://sketchfab.com/i.vacho?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">i.vacho</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
 
 Pôvodná textúra zo skenu bola poškodená, pretože sa rapídne menilo osvetlenie. Na textúru je aplikovaný ten istý filter ako na fotkách nižšie.
 
